@@ -1,0 +1,52 @@
+{
+    "Chennai": {
+        "soil_type": {
+            "en": "Clayey",
+            "ta": "களிமண்",
+            "hi": "चिकनी मिट्टी"
+        },
+        "pH": 6.5,
+        "nutrients": {
+            "nitrogen": {
+                "en": "Medium",
+                "ta": "மிதமான",
+                "hi": "मध्यम"
+            },
+            "phosphorus": {
+                "en": "Low",
+                "ta": "குறைந்த",
+                "hi": "कम"
+            },
+            "potassium": {
+                "en": "High",
+                "ta": "உயர்",
+                "hi": "उच्च"
+            }
+        }
+    },
+    "Coimbatore": {
+        "soil_type": {
+            "en": "Sandy",
+            "ta": "மணல் மண்",
+            "hi": "रेतीली मिट्टी"
+        },
+        "pH": 7.2,
+        "nutrients": {
+            "nitrogen": {
+                "en": "High",
+                "ta": "உயர்",
+                "hi": "उच्च"
+            },
+            "phosphorus": {
+                "en": "Medium",
+                "ta": "மிதமான",
+                "hi": "मध्यम"
+            },
+            "potassium": {
+                "en": "Medium",
+                "ta": "மிதமான",
+                "hi": "मध्यम"
+            }
+        }
+    }
+}
