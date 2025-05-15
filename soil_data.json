@@ -48,5 +48,455 @@
                 "hi": "मध्यम"
             }
         }
+    },
+  "Madurai": {
+    "soil_type": {
+      "en": "Red Loamy",
+      "ta": "சிவப்பு மண்",
+      "hi": "लाल दोमट मिट्टी"
+    },
+    "pH": 7.0,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "phosphorus": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "potassium": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      }
     }
+  },
+  "Tiruchirappalli": {
+    "soil_type": {
+      "en": "Clayey",
+      "ta": "களிமண்",
+      "hi": "चिकनी मिट्टी"
+    },
+    "pH": 8.2,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "phosphorus": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "potassium": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      }
+    }
+  },
+  "Salem": {
+    "soil_type": {
+      "en": "Red Sandy Loam",
+      "ta": "சிவப்பு மணல் மண்",
+      "hi": "लाल बलुई दोमट मिट्टी"
+    },
+    "pH": 7.8,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "phosphorus": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "potassium": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      }
+    }
+  },
+  "Tirunelveli": {
+    "soil_type": {
+      "en": "Alluvial",
+      "ta": "வண்டல் மண்",
+      "hi": "जलोढ़ मिट्टी"
+    },
+    "pH": 6.8,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "phosphorus": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "potassium": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      }
+    }
+  },
+  "Erode": {
+    "soil_type": {
+      "en": "Red Sandy",
+      "ta": "சிவப்பு மணல் மண்",
+      "hi": "लाल रेतीली मिट्टी"
+    },
+    "pH": 7.5,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "phosphorus": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "potassium": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      }
+    }
+  },
+  "Tiruppur": {
+    "soil_type": {
+      "en": "Red Loamy",
+      "ta": "சிவப்பு மண்",
+      "hi": "लाल दोमट मिट्टी"
+    },
+    "pH": 7.0,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "phosphorus": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "potassium": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      }
+    }
+  },
+  "Vellore": {
+    "soil_type": {
+      "en": "Red Sandy Loam",
+      "ta": "சிவப்பு மணல் மண்",
+      "hi": "लाल बलुई दोमट मिट्टी"
+    },
+    "pH": 7.2,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "phosphorus": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "potassium": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      }
+    }
+  },
+  "Thoothukudi": {
+    "soil_type": {
+      "en": "Sandy Loam",
+      "ta": "மணல் மண்",
+      "hi": "बलुई दोमट मिट्टी"
+    },
+    "pH": 8.0,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "phosphorus": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "potassium": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      }
+    }
+  },
+  "Dindigul": {
+    "soil_type": {
+      "en": "Red Loamy",
+      "ta": "சிவப்பு மண்",
+      "hi": "लाल दोमट मिट्टी"
+    },
+    "pH": 6.9,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "phosphorus": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "potassium": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      }
+    }
+  },
+  "Thanjavur": {
+    "soil_type": {
+      "en": "Alluvial",
+      "ta": "வண்டல் மண்",
+      "hi": "जलोढ़ मिट्टी"
+    },
+    "pH": 7.5,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "phosphorus": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      },
+      "potassium": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      }
+    }
+  },
+  "Hosur": {
+    "soil_type": {
+      "en": "Red Sandy Loam",
+      "ta": "சிவப்பு மணல் மண்",
+      "hi": "लाल बलुई दोमट मिट्टी"
+    },
+    "pH": 6.8,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "phosphorus": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "potassium": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      }
+    }
+  },
+  "Nagercoil": {
+    "soil_type": {
+      "en": "Laterite",
+      "ta": "சிவப்பு laterite மண்",
+      "hi": "लैटराइट मिट्टी"
+    },
+    "pH": 6.5,
+    "nutrients": {
+      "nitrogen": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      },
+      "phosphorus": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "potassium": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      }
+    }
+  },
+  "Avadi": {
+    "soil_type": {
+      "en": "Clayey",
+      "ta": "களிமண்",
+      "hi": "चिकनी मिट्टी"
+    },
+    "pH": 6.5,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "phosphorus": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "potassium": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      }
+    }
+  },
+  "Kanchipuram": {
+    "soil_type": {
+      "en": "Clayey Loam",
+      "ta": "களிமண்",
+      "hi": "चिकनी दोमट मिट्टी"
+    },
+    "pH": 7.3,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "phosphorus": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "potassium": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      }
+    }
+  },
+  "Karur": {
+    "soil_type": {
+      "en": "Red Sandy Loam",
+      "ta": "சிவப்பு மணல் மண்",
+      "hi": "लाल बलुई दोमट मिट्टी"
+    },
+    "pH": 7.5,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "phosphorus": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "potassium": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      }
+    }
+  },
+  "Nagapattinam": {
+    "soil_type": {
+      "en": "Alluvial",
+      "ta": "வண்டல் மண்",
+      "hi": "जलोढ़ मिट्टी"
+    },
+    "pH": 6.8,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "phosphorus": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "potassium": {
+        "en": "High",
+        "ta": "உயர்",
+        "hi": "उच्च"
+      }
+    }
+  },
+  "Perambalur": {
+    "soil_type": {
+      "en": "Red Loamy",
+      "ta": "சிவப்பு மண்",
+      "hi": "लाल दोमट मिट्टी"
+    },
+    "pH": 7.0,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "phosphorus": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      },
+      "potassium": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      }
+    }
+  },
+  "Ramanathapuram": {
+    "soil_type": {
+      "en": "Sandy Loam",
+      "ta": "மணல் மண்",
+      "hi": "बलुई दोमट मिट्टी"
+    },
+    "pH": 8.0,
+    "nutrients": {
+      "nitrogen": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "phosphorus": {
+        "en": "Low",
+        "ta": "குறைந்த",
+        "hi": "कम"
+      },
+      "potassium": {
+        "en": "Medium",
+        "ta": "மிதமான",
+        "hi": "मध्यम"
+      }
+    }
+  }
 }
