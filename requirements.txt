@@ -1,8 +1,8 @@
 ﻿
 absl-py==2.1.0
 anyio==4.4.0
-argon2-cffi==23.1.0
-argon2-cffi-bindings==21.2.0
+# argon2-cffi==23.1.0
+# argon2-cffi-bindings==21.2.0
 arrow==1.3.0
 asttokens==2.4.1
 astunparse==1.6.3
@@ -15,7 +15,7 @@ bleach==6.1.0
 blinker==1.9.0
 camelcase==0.2
 certifi==2024.7.4
-cffi==1.17.0
+#cffi==1.17.0
 charset-normalizer==3.3.2
 click==8.1.8
 colorama==0.4.6
@@ -30,12 +30,12 @@ executing==2.0.1
 fastjsonschema==2.20.0
 Flask==3.1.0
 flask-cors==5.0.1
-flatbuffers==25.2.10
+#flatbuffers==25.2.10
 fonttools==4.56.0
 fqdn==1.5.1
 gast==0.6.0
 google-pasta==0.2.0
-grpcio==1.71.0
+#grpcio==1.71.0
 gunicorn==23.0.0
 h11==0.14.0
 h5py==3.13.0
